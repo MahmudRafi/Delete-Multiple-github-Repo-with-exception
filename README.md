@@ -5,13 +5,13 @@ This Python script allows you to delete multiple repositories from your GitHub a
 
 For any questions or help, you can contact me on Telegram: [t.me/mahmud_rafi](https://t.me/mahmud_rafi)
 
-##Features
+## Features
    - Delete multiple GitHub repositories easily.
    - Keep specific repositories safe from deletion.
    - Simple and user-friendly command-line interface.
    - Confirmation prompt before actual deletion to avoid accidents.
 
-##Requirements
+## Requirements
 *To use this script, you need to have the following installed:*
    - Python 3.x
    - `requests` library
