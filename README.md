@@ -67,3 +67,21 @@ if __name__ == "__main__":
 5. **Save the Script:**
    - Save the file with a meaningful name and the `.py` extension, e.g., `delete_repos.py`.
 
+6. **Run the Python Script from Terminal or Command Prompt:**
+   - Open Terminal or Command Prompt.
+   - Use the `cd` command to navigate to the directory where you saved the Python script. For example:
+```
+cd C:\Users\YourUsername\Scripts   (Windows)
+```
+```
+cd /Users/YourUsername/Scripts     (macOS and Linux)
+```
+   - Run the `Python` script using the python command followed by the script filename. For example:
+```
+python delete_repos.py
+```
+   - The script will start executing, and if everything is set up correctly, it will delete the repositories as per the instructions provided in the script.
+
+**Remember to keep your access token secure and avoid sharing it with anyone or exposing it in public repositories. If you want to run this script periodically or on a server, consider using environment variables to store sensitive information securely.**
+
+*For any questions or help, feel free to contact me on Telegram: t.me/mahmud_rafi*
