@@ -98,4 +98,4 @@ python delete_repos.py
 
 **Remember to keep your access token secure and avoid sharing it with anyone or exposing it in public repositories. If you want to run this script periodically or on a server, consider using environment variables to store sensitive information securely.**
 
-*For any questions or help, feel free to contact me on Telegram:* t.me/mahmud_rafi
+*For any questions or help, feel free to contact me on Telegram: [t.me/mahmud_rafi](https://t.me/mahmud_rafi)*
