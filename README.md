@@ -2,7 +2,6 @@
 
 This Python script allows you to delete multiple repositories from your GitHub account based on a provided list of repositories to keep. Be cautious while using this script, as it will permanently delete repositories from your GitHub account.
 
-![Telegram Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Telegram_logo.svg/240px-Telegram_logo.svg.png)
 
 For any questions or help, you can contact me on Telegram: [t.me/mahmud_rafi](https://t.me/mahmud_rafi)
 
@@ -58,3 +57,13 @@ if __name__ == "__main__":
     
     # Call the function to delete the unwanted repositories
     delete_repositories(username, access_token, repos_to_keep)
+```
+
+4. **Modify the Script:**
+   - Replace `"your_github_username"` with your actual GitHub username.
+   - Replace `"YOUR_ACCESS_TOKEN"` with the access token you generated in Step 1.
+   - Populate the `repos_to_keep` list with the names of repositories you want to keep.
+
+5. **Save the Script:**
+   - Save the file with a meaningful name and the `.py` extension, e.g., `delete_repos.py`.
+
